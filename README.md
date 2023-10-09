@@ -87,26 +87,82 @@
 <hr>
 <hr>
 
-7. ### Obs:
-    
-    1. (&-nbsp) -- <br>
-    da espaco dentro do site, para as coisas ficarem mais afastado.<br> obs: é tudo junto, nao tendo espaco ou traço.  
-        <hr>
-    2. ctrl + home + end -- <br> Seleciona uma linha.
-    
-        <hr>
-    3. shift + ( ; ) -- <br> Comenta uma linha ou palavra 
+7. ### Aula 6
+
+
+
+<hr>
+<hr>
+
+8. ### Aula 6
+
+    * for -- <br> Percorre\le as listas, tambem pode ser usado para complementar as listas ou fazer alguma operacoes entre elas. 
+
+        - <h5> continue -- </h5> É uma propriedade que ira continuar a lista ate que finalize todas as conducoes. <br> Porém, toda vezes que ela repetir, ira pular o termo que ja foi contado e so parará quando nao haver mais termos que se encaxem na condicao
 
         <hr>
-    4. hr -- <br> 
+
+        - <h5></h5>
+
+        <hr>
+
+        - <h5></h5>
+
+        <hr>
+
+    * <h4> min -- </h4> percorre a lista e verifica qual e o menor termo
+
+        <hr>
+
+    * <h4> max -- </h4> Percorre a lista e verifica qual e o maior termo da lista
+
+        <hr>
+    
+    * <h4> sum -- </h4> Soma todos os termos da lista.
+   
+     <hr>
+    
+    * <h4>len -- </h4> Mostra quantos termos tem dentro da lista.
+   
+      <hr>
+    
+    * <h4></h4>
+    
+       <hr>
+    
+    * <h4></h4>
+    
+       <hr>
+    
+    * <h4></h4>
+    
+       <hr>
+    
+    * <h4></h4>
+
+
+<hr>
+<hr>
+
+### Obs:
+    
+   1. (&-nbsp) -- <br>
+    da espaco dentro do site, para as coisas ficarem mais afastado.<br> obs: é tudo junto, nao tendo espaco ou traço.  
+        <hr>
+   2. ctrl + home + end -- <br> Seleciona uma linha.
+    
+        <hr>
+   3. shift + ( ; ) -- <br> Comenta uma linha ou palavra 
+
+        <hr>
+   4. hr -- <br> 
     Esse comando cria uma linha de divisoria
 
 <hr>
 <hr>
 
-8. ### Autor
-
-    1. Gustavo Bezerra Assumção
+### Autor
+   1. Gustavo Bezerra Assumção
         
         * estudande da FIAP
        
