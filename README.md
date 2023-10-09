@@ -1,8 +1,5 @@
-# Python
-
-# # Front-End desing
-
-## # Indice
+# # Python
+## ## Indice
 
 <a href="#Contexto"># Contexto </a>
 <br>
@@ -87,16 +84,16 @@
 <hr>
 <hr>
 
-7. ### Aula 6
+7. ### Aula 7
 
 
 
 <hr>
 <hr>
 
-8. ### Aula 6
+8. ### Aula 8
 
-    * for -- <br> Percorre\le as listas, tambem pode ser usado para complementar as listas ou fazer alguma operacoes entre elas. 
+    * for -- <br> Percorre\le as listas, tambem pode ser usado para complementar as listas ou fazer alguma operacoes entre elas. <br> Além disso, o range somente funciona com numeros, nao podendo usar string. 
 
         - <h5> continue -- </h5> É uma propriedade que ira continuar a lista ate que finalize todas as conducoes. <br> Porém, toda vezes que ela repetir, ira pular o termo que ja foi contado e so parará quando nao haver mais termos que se encaxem na condicao
 
@@ -120,53 +117,62 @@
     
     * <h4> sum -- </h4> Soma todos os termos da lista.
    
-     <hr>
+        <hr>
     
-    * <h4>len -- </h4> Mostra quantos termos tem dentro da lista.
+    * <h4>len -- </h4> Mostra quantos termos tem dentro da lista, independente se for uma string ou numeros.
    
       <hr>
     
     * <h4></h4>
     
-       <hr>
+      <hr>
     
     * <h4></h4>
     
-       <hr>
+      <hr>
     
     * <h4></h4>
     
-       <hr>
+      <hr>
     
     * <h4></h4>
+      
 
+      <hr>
 
 <hr>
 <hr>
 
 ### Obs:
     
-   1. (&-nbsp) -- <br>
+1. (&-nbsp) -- <br>
     da espaco dentro do site, para as coisas ficarem mais afastado.<br> obs: é tudo junto, nao tendo espaco ou traço.  
-        <hr>
-   2. ctrl + home + end -- <br> Seleciona uma linha.
-    
-        <hr>
-   3. shift + ( ; ) -- <br> Comenta uma linha ou palavra 
+        
+    <hr>
 
-        <hr>
-   4. hr -- <br> 
+2. ctrl + home + end -- <br> Seleciona uma linha.
+    
+    <hr>
+
+3. shift + ( ; ) -- <br> Comenta uma linha ou palavra 
+
+    <hr>
+
+4. hr -- <br> 
     Esse comando cria uma linha de divisoria
 
+    <br>
+
 <hr>
 <hr>
 
-### Autor
-   1. Gustavo Bezerra Assumção
+### # Autor
+1. Gustavo Bezerra Assumção
         
-        * estudande da FIAP
+    * estudande da FIAP
        
-        * <a href="https://www.linkedin.com/in/gustavo-bezerra-829202289/"> linkedin </a>
+    * <a href="https://www.linkedin.com/in/gustavo-bezerra-829202289/"> linkedin </a>
         
-        * <a href="https://www.instagram.com/gustavo_b017/"> Instagram </a>
-        * <a href="https://github.com/Gustavo-b017"> Github </a>
+    * <a href="https://www.instagram.com/gustavo_b017/"> Instagram </a>
+    
+    * <a href="https://github.com/Gustavo-b017"> Github </a>
