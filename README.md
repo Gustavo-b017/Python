@@ -43,20 +43,116 @@
 
 1. ### Aula 1
 
-
+   * <h4>aula teorica</h4>
+    
+     
 
 <hr>
 <hr>
 
 2. ### Aula 2
 
+  * <h4>print -- </h4> mostra alguma mensgem para o usuario. <br> Porém, nao esta completo, pois precisa de complemento, como a mensgem e/ou a variavel que quer mostrar. <br> Além disso, e possivel fazer contas rapidas ja mostrando o resultado para o usuario.
 
+    - <h5>"mensagem" -- </h5> Para poder exibir uma mensagem se deve ter as ("aspas"), pois assim sera considerado como uma string e exibira a mesnagem exata.  <br> exemplo: <br> print("mensagem") -- exibir somente a mensagem.
+
+    - <h5>, variavel -- </h5> Para exibir somente uma variavel, se deve chamar a variavel e a deixar sozinha, caso queira mais de uma, se pode colocar ( ',' ) e a outra variavel. <br> exemplos: <br> print(variavel) -- exibir somente uma variavel. <br> print(variavel_1, variavel_2) -- exibe duas variaveis de uma vez e na ordem colocada.
+    
+    - <h5>"mensagem", variavel -- </h5> Para poder exibir uma mensagem se deve ter as ("aspas"), pois assim sera considerado como uma string e exibira a mesnagem exata. <br> Contudo, para mostrar algum valor de variavel de usar a ( ',' ) depois da mensagem, e logo em seguida a variaval a ser mostrada. <br> exemplo:<br> print("mensagem exibida:", valor da variavel) -- para exibir mesagem e valor da variavel.
+    
+    - <h5>para poder fazer contas e mostrar seu valor -- </h5> Se pode fazer cantas diretamente no print, usando variaveis ou os numeros diretamente. <br> exemplos: <br> print(100 + (100 * 5 / 100)) -- ira mostrar o valor da operacao matematica, no caso ira dar: 105 <br> print(salario * (salario * aumento / salario)) -- ira fazer uma conta para saber qual e o aumento do salario, onde se define previamente as variaveis com os valores escolhido.
+      
+      <hr>
+  
+  * <h4>nomeando e definindo uma variavel --</h4> 
+    - pode conter letras e numero <br>
+    - pode conter somente letras, mas nao pode ser so numeros <br>
+    - deve ser iniciado por pelo menos uma letra ou sublinha ("_") <br> 
+    - nao se pode iniciar por numeros <br>
+    - nao pode ter espaco em branco, mas pode contortar usando o "_"
+    - depois que a variavel é criada deve ter o (=) para definir o valor que ela receberá.
+      <hr>
+  
+  * <h4>operadores logicos --</h4>
+    - (==) -- usado para igualdade<br>
+    - (>) -- maior que <br>
+    - (<) -- menor que<br>
+    - (!=) -- diferente que <br>
+    - (>=) -- maior ou igual <br>
+    - (<=) -- menor ou igual <br>
+            <hr>
+    - and ( && ) -- usado juntar algo; ambos precisam ser verdadeiros para ser verdadeiro. <br> Mesmo que um deles seja verdadeiro e o outro falso, ira ler como falso <br> <br>
+    - or ( || ) --  um deles precisa ser verdadeiro para ser verdadeiro, mesmo que um seja falso ira ler como verdadeiro <br><br> 
+    - not ( ! ) -- o verdadeiro vira falso e o falso vira verdadeiro <br>
+    
+      <hr>
+  
+  * <h4> len() --</h4> Esse comando conta quantos caracteres tem eum uma lista ou variavel, e pode ser usado em string ou numeros.
+
+    - a [ posicao ] -- usado para saber a prosicao de uma letra em especifico, no lugar de "posicao" se coloca o numero correspondente do caractere. <br> OBS: o len comenca a contar apartir do zero ( 0 ), logo a contagem seria: 0, 1, 2, 3.  
+    
+      <hr>
+  
+  * <h4></h4>
+    
+      <hr>
+  
+  * <h4></h4>
+    
+      <hr>
+ 
+  * <h4></h4>
+    
+      <hr>
+  
+  * <h4></h4>
+    
+      <hr>
+  
+  * <h4></h4>
+    
+      <hr>
+  
 
 <hr>
 <hr>
 
 3. ### Aula 3 
+  * <h4></h4>
     
+      <hr>
+  
+  * <h4></h4>
+    
+      <hr>
+  
+  * <h4></h4>
+    
+      <hr>
+  
+  * <h4></h4>
+    
+      <hr>
+  
+  * <h4></h4>
+    
+      <hr>
+  
+  * <h4></h4>
+    
+      <hr>
+ 
+  * <h4></h4>
+    
+      <hr>
+  
+  * <h4></h4>
+    
+      <hr>
+  
+  * <h4></h4>
+    
+      <hr>
   
 
 <hr>
@@ -64,6 +160,41 @@
 
 4. ### Aula 4 
 
+  * <h4></h4>
+    
+      <hr>
+  
+  * <h4></h4>
+    
+      <hr>
+  
+  * <h4></h4>
+    
+      <hr>
+  
+  * <h4></h4>
+    
+      <hr>
+  
+  * <h4></h4>
+    
+      <hr>
+  
+  * <h4></h4>
+    
+      <hr>
+ 
+  * <h4></h4>
+    
+      <hr>
+  
+  * <h4></h4>
+    
+      <hr>
+  
+  * <h4></h4>
+    
+      <hr>
 
     
 <hr>
@@ -71,6 +202,41 @@
 
 5. ### Aula 5
 
+  * <h4></h4>
+    
+      <hr>
+  
+  * <h4></h4>
+    
+      <hr>
+  
+  * <h4></h4>
+    
+      <hr>
+  
+  * <h4></h4>
+    
+      <hr>
+  
+  * <h4></h4>
+    
+      <hr>
+  
+  * <h4></h4>
+    
+      <hr>
+ 
+  * <h4></h4>
+    
+      <hr>
+  
+  * <h4></h4>
+    
+      <hr>
+  
+  * <h4></h4>
+    
+      <hr>
 
            
 
@@ -78,7 +244,42 @@
 <hr>
 
 6. ### Aula 6
-
+  
+  * <h4></h4>
+    
+      <hr>
+  
+  * <h4></h4>
+    
+      <hr>
+  
+  * <h4></h4>
+    
+      <hr>
+  
+  * <h4></h4>
+    
+      <hr>
+  
+  * <h4></h4>
+    
+      <hr>
+  
+  * <h4></h4>
+    
+      <hr>
+ 
+  * <h4></h4>
+    
+      <hr>
+  
+  * <h4></h4>
+    
+      <hr>
+  
+  * <h4></h4>
+    
+      <hr>
 
 
 <hr>
@@ -86,6 +287,41 @@
 
 7. ### Aula 7
 
+  * <h4></h4>
+    
+      <hr>
+  
+  * <h4></h4>
+    
+      <hr>
+  
+  * <h4></h4>
+    
+      <hr>
+  
+  * <h4></h4>
+    
+      <hr>
+  
+  * <h4></h4>
+    
+      <hr>
+  
+  * <h4></h4>
+    
+      <hr>
+ 
+  * <h4></h4>
+    
+      <hr>
+  
+  * <h4></h4>
+    
+      <hr>
+  
+  * <h4></h4>
+    
+      <hr>
 
 
 <hr>
