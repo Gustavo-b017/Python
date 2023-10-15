@@ -80,17 +80,17 @@
       <hr>
   
     * <h4>operadores logicos -- </h4>
-    
+
         - <h5> (==) -- </h5> usado para igualdade <br>
-    
+
         - <h5> (>) -- </h5> maior que <br>
-    
+
         - <h5> (<) -- </h5> menor que<br>
-    
+
         - <h5> (!=) -- </h5> diferente que <br>
-    
+
         - <h5> (>=) -- </h5> maior ou igual <br>
-    
+
         - <h5> (<=) -- </h5> menor ou igual <br>
             <hr>
     
@@ -111,7 +111,7 @@
       <hr>
   
     * <h4> operacaos de fatiamento -- </h4> 
-    
+
         - <h5> omitir caracteres a esquerda -- </h5> se utiliza a variavel que contem a string e usa o [], informando de qual letra para frente sera mostrada. <br> exemplo: <br> 
             variavel = "Let's learn Python" <br>
             s[10:] <br>
@@ -237,52 +237,87 @@
 
     <h5>Obs: </h5> todo if precisa de um else, incusive aki
       <hr>
-  
-  * <h4></h4>
     
-      <hr>
-  
+    * <h4> for -- </h4> Esse comando percorre elementos dentro der uma lista ou uma string e realizar operancoes em cada elemento. <br> Porém, ele nao esta completo, precisando do da criacao de uma variavel, do "in", da lista e finalizando com ":". <br> Exemplo: <br> for variavel_criada in lista_pre-existente: <br> print(numero) 
+        
+        - <h5> continue -- </h5> Ejgssa propriedade para a acao atual do loop e ira fazer a proxima em sequencia
+        
+        - <h5> break --</h5> Essa propriedade para o loop sem mesmo percorrer toda a lista.
+        
+        - <h5> if -- </h5> Pode se usar o if dentro do for, para poder fazer alguma condicao especifica, como relatar a falta de um ingrediente.
+
+        - <h5> for -- </h5> Caso seja feito uma identacao, ira ter uma combinacao, do elemento 1 no elemento 2
+        
+    
 
 <hr>
 <hr>
 
 4. ### Aula 4 
 
-  * <h4></h4>
-    
-      <hr>
   
-  * <h4></h4>
+    * <h4> Operadores de atribuicao -- </h4> sao propriedades para facilitar e simplificar as operacoes matematicas nos codigos.
+
+        - <h5> += -- </h5> soma o lado  esquerdo com o lado direito; e em seguida atribui o resulatdo ao lado esquerdo. <br> Exemplo: <br> a += b --> a = a + b. 
+        
+        - <h5> -= -- </h5> subtrai o lado  esquerdo com o lado direito, em seguida atribui o resulatdo ao lado esquerdo. <br> Exemplo: <br> a -= b --> a = a - b. 
+        
+        - <h5> *= -- </h5> multiplica o lado  esquerdo com o lado direito; em seguida atribui o resulatdo ao lado esquerdo. <br> Exemplo: <br> a *= b --> a = a * b. 
+        
+        - <h5> /= -- </h5> divide o lado  esquerdo com o lado direito; em seguida atribui o resulatdo ao lado esquerdo. <br> Exemplo: <br> a /= b --> a = a / b. 
+        
+        - <h5> %= -- </h5> divide o lado  esquerdo com o lado direito, pegando o resto da divisao, em seguida atribui o resulatdo ao lado esquerdo. <br> Exemplo: <br> a %= b --> a = a % b. 
+
+        - <h5> OBS: </h5> Esse ultimo comando serve para encontrar o resto de alguma divisao, ex: 2 / 2 tem o resto 0; enquanto 3/2 tem o resto 1.
+         
+      <hr>
+    
+    * <h4> while -- </h4> É uma de repeticao parecida com o for, porem as suas repeticoes nao sao bem definidas, precisando de um contador. <br> Além disso, essa estrutura ira rodar um codigo ate que encontre o que deseja ou que alguma comando pare.
+       
+        - <h5> contador -- </h5> usado para avancar a condicao. <br> Além disso, o contador deve ser definido fora do comando while. <br> ex: <br> fim = int(input( "Digite o último número a imprimir: ")) <br> conatdor = 1 <br> while contador <= fim: <br> contador = contador + 1 <br> print(x)
+
+      <hr>
+    
+    * <h4></h4>
     
       <hr>
-  
-  * <h4></h4>
+    
+    * <h4></h4>
     
       <hr>
-  
-  * <h4></h4>
+    
+    * <h4></h4>
     
       <hr>
-  
-  * <h4></h4>
+    
+    * <h4></h4>
     
       <hr>
-  
-  * <h4></h4>
+    
+    * <h4></h4>
     
       <hr>
- 
-  * <h4></h4>
+    
+    * <h4></h4>
     
       <hr>
-  
-  * <h4></h4>
+    
+    * <h4></h4>
     
       <hr>
-  
-  * <h4></h4>
+    
+    * <h4></h4>
     
       <hr>
+    
+    * <h4></h4>
+    
+      <hr>
+    
+    * <h4></h4>
+    
+      <hr>
+    
 
     
 <hr>
