@@ -43,7 +43,7 @@
 
 1. ### Aula 1
 
-  * <h4>aula teorica</h4>
+  * <h4>Apresentação do curso</h4>
     
      
 
@@ -52,6 +52,19 @@
 
 2. ### Aula 2
 
+  * <h4> Pseudocódigo --</h4> Conteudo Teorico.
+    
+    <hr>
+  
+  * <h4>fluxogrma -- </h4> Conteudo Teorico. <br> Usado para definir quais serao os passos minimos a ser realizado e qual ira ser a ordem. <br> Além disso, eles sao compostos por caixas e setas, a forma da caixa diz se será de açao, inicio, entrada, etc...
+    
+    <hr>
+
+<hr>
+<hr>
+
+3. ### Aula 3 
+  
   * <h4>print -- </h4> mostra alguma mensgem para o usuario. <br> Porém, nao esta completo, pois precisa de complemento, como a mensgem e/ou a variavel que quer mostrar. <br> Além disso, e possivel fazer contas rapidas ja mostrando o resultado para o usuario.
 
     - <h5>"mensagem" --<h5>  Para p</h5> oder exibir uma mensagem se deve ter as ("aspas"), pois assim sera considerado como uma string e exibira a mesnagem exata.  <br> exemplo: <br> print("mensagem") -- exibir somente a mensagem.
@@ -161,12 +174,12 @@
     - <h5>int --</h5> converte o valor recebido em numero inteiro. <br> Exemplo: <br> variavel = float(input("vc tem quantos anos?"))
         
     - <h5>float -- </h5> converte o valor recebido em numero decimal. <br> Exemplo: <br> variavel = float(input("vc tem quantos centavos?"))
-
+    
 <hr>
 <hr>
 
-3. ### Aula 3 
-  
+4. ### Aula 4 
+    
   * <h4> if -- </h4> É uma estrutura de decisao que decide se quando uma parte do codigo sera ativado ou ignorada. <br> Esse comando ira iniciar a estrutura de decisao. <br> Se o if nao estiver idendato no outro, ira reconhecer como condicoes independentes e irao rodar sem necessitar da outra.
 
     - E possivel fazer multiplas comparacoes, usando os operdadores de comparacao (and, or, not) <br>
@@ -220,14 +233,12 @@
     - <h5> if -- </h5> Pode se usar o if dentro do for, para poder fazer alguma condicao especifica, como relatar a falta de um ingrediente.
 
     - <h5> for -- </h5> Caso seja feito uma identacao, ira ter uma combinacao, do elemento 1 no elemento 2
-        
-    
-
+   
 <hr>
 <hr>
 
-4. ### Aula 4 
 
+5. ### Aula 5
   
   * <h4> Operadores de atribuicao -- </h4> sao propriedades para facilitar e simplificar as operacoes matematicas nos codigos.
 
@@ -248,141 +259,15 @@
   * <h4> while -- </h4> É uma de repeticao parecida com o for, porem as suas repeticoes nao sao bem definidas, precisando de um contador. <br> Além disso, essa estrutura ira rodar um codigo ate que encontre o que deseja ou que alguma comando pare.
        
     - <h5> contador -- </h5> usado para avancar a condicao. <br> Além disso, o contador deve ser definido fora do comando while. <br> ex: <br> fim = int(input( "Digite o último número a imprimir: ")) <br> conatdor = 1 <br> while contador <= fim: <br> contador = contador + 1 <br> print(x)
-
-    <hr>
-    
-  * <h4></h4>
-    
-    <hr>
-    
-  * <h4></h4>
-    
-    <hr>
-    
-  * <h4></h4>
-    
-    <hr>
-    
-  * <h4></h4>
-    
-    <hr>
-    
-  * <h4></h4>
-    
-    <hr>
-    
-  * <h4></h4>
-    
-    <hr>
-    
-  * <h4></h4>
-    
-    <hr>
-    
-  * <h4></h4>
-    
-    <hr>
-    
-  * <h4></h4>
-    
-    <hr>
-    
-  * <h4></h4>
-    
-    <hr>
-   
-<hr>
-<hr>
-
-
-5. ### Aula 5
-  
-  * <h4></h4>
-    
-    <hr>
-    
-  * <h4></h4>
-    
-    <hr>
-    
-  * <h4></h4>
-    
-    <hr>
-    
-  * <h4></h4>
-    
-    <hr>
-    
-  * <h4></h4>
-    
-    <hr>
-    
-  * <h4></h4>
-    
-    <hr>
-    
-  * <h4></h4>
-    
-    <hr>
-    
-  * <h4></h4>
-    
-    <hr>
-    
-  * <h4></h4>
-    
-    <hr>
-    
-  * <h4></h4>
-    
-    <hr>
-   
+ 
 <hr>
 <hr>
 
 
 6. ### Aula 6
   
-  * <h4></h4>
-    
-    <hr>
-    
-  * <h4></h4>
-    
-    <hr>
-    
-  * <h4></h4>
-    
-    <hr>
-    
-  * <h4></h4>
-    
-    <hr>
-    
-  * <h4></h4>
-    
-    <hr>
-    
-  * <h4></h4>
-    
-    <hr>
-    
-  * <h4></h4>
-    
-    <hr>
-    
-  * <h4></h4>
-    
-    <hr>
-    
-  * <h4></h4>
-    
-    <hr>
-    
-  * <h4></h4>
-    
-    <hr>
-   
+  * <h4> Checkpoint/prova </h4>
+  
 <hr>
 <hr>
 
