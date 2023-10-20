@@ -273,45 +273,19 @@
 
 7. ### Aula 7
   
-  * <h4></h4>
+  * <h4> zip() -- </h4>Coamndo que permite somar listas. <br> Além disso, ela pode ser usada em comjunto com o for, o que permite somar os termos correspondentes entres as listas. <br> O zip pode ser usado para mais de dois termos, sendo possivel juntar termos de diferentes tipos, como numeros e string
     
     <hr>
     
-  * <h4></h4>
+  * <h4> combinacao de listas -- </h4> Para se combinar listas se deve criar uma vairavel e nessa variavel somar as listas ja existentes. <br> OBS: o resultado sera uma lista e depois a outa.
     
     <hr>
     
-  * <h4></h4>
+  * <h4> enumerate() -- </h4> Essa propriedade e usada para enumerar os termos correspondendes, podenso ser usada com outas propriedades como o zip.
     
     <hr>
     
-  * <h4></h4>
-    
-    <hr>
-    
-  * <h4></h4>
-    
-    <hr>
-    
-  * <h4></h4>
-    
-    <hr>
-    
-  * <h4></h4>
-    
-    <hr>
-    
-  * <h4></h4>
-    
-    <hr>
-    
-  * <h4></h4>
-    
-    <hr>
-    
-  * <h4></h4>
-    
-    <hr>
+  * <h4> .append -- </h4> permite adicionar elementos a alguma lista 
    
 <hr>
 <hr>
@@ -338,24 +312,6 @@
     
   * <h4>len -- </h4> Mostra quantos termos tem dentro da lista, independente se for uma string ou numeros.
    
-    <hr>
-    
-  * <h4></h4>
-    
-    <hr>
-    
-  * <h4></h4>
-    
-    <hr>
-    
-  * <h4></h4>
-    
-    <hr>
-    
-  * <h4></h4>
-      
-
-    <hr>
 
 <hr>
 <hr>
@@ -377,6 +333,11 @@
 
 4. hr -- <br> 
     Esse comando cria uma linha de divisoria
+
+    <br>
+
+5. truplas -- <br> 
+    É uma sequancia de valores de qualquer tipo ou forma
 
     <br>
 
