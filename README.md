@@ -44,7 +44,24 @@
 1. ### Aula 1
 
   * <h4>Apresentação do curso</h4>
+
+    <hr>
+
+  * <h4> input -- </h4> É usado para soliciatar um valor do usuario, sendo o valor convertido em string(conjunto de caracteres).
+
+    - <h5> float -- </h5> converte o valor de string para numeros decimais, podendo usa-los para fazer contas.
     
+    - <h5> int -- </h5> Converte a sting para numeros inteiros, nao permitindo numeros decimais, podendo se usado para fazer conta.
+
+     <hr>
+
+  * <h4> if // elif // else -- </h4> É usado para se fazer ações especificas dentro do codigo.
+
+    - <h5> if -- </h5> É usado para iniciar as condicoes, caso a variavel tenha determidado valor, ou caso a variavel se enquadra dentro da situacao determidada, ira execultar um acao especifica dentro dessa condicao
+    
+    - <h5> elif -- </h5> É usado da mesma forma do "if", porem so pode ter 1 "if" na estrutura, e se precisar de mais condicoes de deve usar o elif em vez de diversos "if".
+    
+    - <h5> else -- </h5> É usado para finalizar a estrutura condicional, caso nao tenha nenhuma situacao que se enquadra em nenhuma outa, ira execultar esse comando.     
      
 
 <hr>
@@ -59,6 +76,22 @@
   * <h4>fluxogrma -- </h4> Conteudo Teorico. <br> Usado para definir quais serao os passos minimos a ser realizado e qual ira ser a ordem. <br> Além disso, eles sao compostos por caixas e setas, a forma da caixa diz se será de açao, inicio, entrada, etc...
     
     <hr>
+
+  * <h4> ["valor 1" ; "valor 2"] --  </h4> essa propriedade é usada para atribuir um valor a uma variavel, e esse valor é umaj lista, onde o conteudo da lista deve estar em seu interior. <br> Além disso, para se usar string, se deve colocar o valor ente aspas simples oud duplas ( "" ; '').
+
+     <hr>
+
+  * <h4> min -- </h4> Usado para saber qual e o menor numro dentro de uma lista ou de uma variavel.
+
+    <hr>
+
+  * <h4> .remove() -- </h4> Propriedade que remove algum termo da lista ou vairavel. <br> Alem disso, se deve ser usado logo em seguida da vaiavel que o valor sera removido, e no parentese () de deve colocar o valor a ser removido.
+    
+    <hr>
+
+  * <h4> sum() -- </h4> propriedade que soma todos os valores de uma variavel/lista. <br> Obs: a variavel deve estar dentro do parenteses.
+
+
 
 <hr>
 <hr>
@@ -267,7 +300,26 @@
 6. ### Aula 6
   
   * <h4> Checkpoint/prova </h4>
+
+      <hr>
+
+  * <h4> reversed -- </h4> Inverte a posicao da lista, o ultimo se torna o prmeiro e assim consecutivamente, basicamente inverte a ordem da lista
+
+  <hr>
+
+  * <h4> :: -- </h4> pula casas dentro da lista, se deve utilizar dentro do for. <br> para poder utilizar se deve colocar o numero em que ira comecar a ler a lista e depois colocar de quantas em quantas casas ira pular. <br> Obs: os termos da lista comeca a ontar apartir do 0.  
+
+  * <h4> %s -- </h4> comando usado para substituir um valor de string dentro do print, sendo necessario informar qual sera a variavel que ira subistituir. E para isso e usado o " %(variavel)" depois da mensagem
+
+      <hr>
   
+  * <h4> %f -- </h4> comando usado para substituir um valor quebrado do tipo float dentro do print, sendo necessario informar qual sera a variavel que ira subistituir. E para isso e usado o " %(variavel)" depois da mensagem
+
+      <hr>
+  
+  * <h4> %d --</h4> comando usado para substituir um valor inteiro dentro do print, sendo necessario informar qual sera a variavel que ira subistituir. E para isso e usado o " %(variavel)" depois da mensagem
+
+      <hr>
 <hr>
 <hr>
 
@@ -354,3 +406,5 @@
   * <a href="https://www.instagram.com/gustavo_b017/"> Instagram </a>
     
   * <a href="https://github.com/Gustavo-b017"> Github </a>
+  
+## <a href="##-Indice"> Indice </a>
