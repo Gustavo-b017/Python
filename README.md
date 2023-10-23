@@ -23,6 +23,8 @@
 <br>
 <a href="#Aula-8">#  Aula 8 </a>
 <br>
+<a href="#Aula-9">#  Aula 9 </a>
+<br>
 <a href="#Obs">#  Observações </a>
 <br>
 <a href="#-Autor"> # Autor </a>
@@ -368,6 +370,41 @@
     
   * <h4>len -- </h4> Mostra quantos termos tem dentro da lista, independente se for uma string ou numeros.
    
+
+<hr>
+<hr>
+
+9. ### Aula 9
+
+  * <h4> Corringindo o checkpoint 2 </h4>
+
+      <hr>
+
+  * <h4> </h4>
+
+    - <h5> </h5>
+
+      <hr>
+  
+  * <h4> </h4>
+
+    - <h5> </h5>
+
+      <hr>
+
+  * <h4> </h4>
+
+    - <h5> </h5>
+
+      <hr>
+  
+  * <h4> </h4>
+
+    - <h5> </h5>
+
+      <hr>
+
+
 
 <hr>
 <hr>
