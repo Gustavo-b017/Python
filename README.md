@@ -25,6 +25,10 @@
 <br>
 <a href="#Aula-9">#  Aula 9 </a>
 <br>
+<a href="#Aula-10">#  Aula 10 </a>
+<br>
+<a href="#Aula-11">#  Aula 11 </a>
+<br>
 <a href="#Obs">#  Observações </a>
 <br>
 <a href="#-Autor"> # Autor </a>
@@ -380,6 +384,22 @@
 
       <hr>
 
+  * <h4> upper -- </h4> Deixa todas as letras mauiusculas
+
+      <hr>
+  
+  * <h4> introducao ao pandas</h4>
+
+
+<hr>
+<hr>
+
+10. ### Aula 10
+
+  * <h4>  </h4>
+
+      <hr>
+
   * <h4> </h4>
 
     - <h5> </h5>
@@ -403,6 +423,36 @@
     - <h5> </h5>
 
       <hr>
+11. ### Aula 11
+
+  * <h4>  </h4>
+
+      <hr>
+
+  * <h4> </h4>
+
+    - <h5> </h5>
+
+      <hr>
+  
+  * <h4> </h4>
+
+    - <h5> </h5>
+
+      <hr>
+
+  * <h4> </h4>
+
+    - <h5> </h5>
+
+      <hr>
+  
+  * <h4> </h4>
+
+    - <h5> </h5>
+
+      <hr>
+
 
 
 
