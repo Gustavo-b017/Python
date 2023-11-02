@@ -423,52 +423,18 @@
     
     * <h4> varaivel.iloc -- </h4> pega linha por linha dos dados, onde nao se cria uma tabela, mas sim os dados irao parecer em ordem de posicao. 
 
-      - <h5> </h5>
+<hr>
+<hr>
 
-        <hr>
-
-    * <h4> </h4>
-
-      - <h5> </h5>
-
-        <hr>
-    
-    * <h4> </h4>
-
-      - <h5> </h5>
-
-        <hr>
 11. ### Aula 11
 
-  * <h4>  </h4>
+  * <h4> def nome_funcao (variavel)-- </h4> cria uma funcao, logo depois a nomeia, e define as vaiaveis a ser utilizada
 
       <hr>
 
-  * <h4> </h4>
+  * <h4> return variavel -- </h4> retorna o valor da variavel, tendo que informar qual e o valor desejado.
 
-    - <h5> </h5>
-
-      <hr>
-  
-  * <h4> </h4>
-
-    - <h5> </h5>
-
-      <hr>
-
-  * <h4> </h4>
-
-    - <h5> </h5>
-
-      <hr>
-  
-  * <h4> </h4>
-
-    - <h5> </h5>
-
-      <hr>
-
-
+    - <h5> OBS: para printar o resultado, deve chamar o que quer ser printado no return, e para printar se deve chamar o nome da funcao e sua variavel. <br> Basicamente colocar o que colocou em def ... sem o def</h5>
 
 
 <hr>
