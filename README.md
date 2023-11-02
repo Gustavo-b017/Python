@@ -390,39 +390,54 @@
   
   * <h4> introducao ao pandas</h4>
 
+  * <h4>  pip install -- </h4> usado para instalar uma biblioteca, onde depois desse coamndo se deve colocar o nome da biblioteca a ser instalada
 
+      <hr>
+
+  * <h4> import (biblioteca) as (apedido) </h4> comando usado para chamar uma biblioteca ja instalada, logo depois a renomenado para poder ficar mais facil chama-la quando quiser
+
+    <hr>
+  * <h3> pandas </h3> biblioteca pandas: 
+
+    * <h4> {'nome coluna' : [valor da culuna], }</h4> se deve criar uma variavel, adicionar chaves e dentro dessas chaves ira colocar a estrutura " 'nome da culuna' : [valores] ' " o dois pontos servem para dizes que os valores do parenteses esta ligado a coluna criada anteriormente. <br> OBS: para exibir as informacoes se deve usar o comando abaixo. <br> OBS 2: se deve colocar esse comando dentro de uma variavel
+
+      <hr>
+
+    * <h4> biblioteca/apelido.DataFrame(nome_variavel_tabela) </h4> cria um DataFrame e inicia uma tabela do frame work (da biblioteca "pandas"), colocando os dados em forma de tabela do exel. <br> OBS: para se ter os dados se usa a estrutura acima. <br> OBS 2: se deve colocar esse comando dentro de uma variavel
+
+      <hr>
 <hr>
 <hr>
 
 10. ### Aula 10
 
-  * <h4>  </h4>
+* <h3> Pandas </h3> biblioteca do pandas:
 
-      <hr>
+    * <h4> pd.read_csv('caminho.csv') </h4> comando usado para se ler um arquivo do exel, onde a terminacao seja "csv" <br> OBS: deve ser usado pelo pandas. <br> OBS 2: se deve colocar esse comando dentro de uma variavel
+    
+     <hr>
 
-  * <h4> </h4>
+    * <h4> variavel_dados.info() </h4> esse comando le os dados da variavel e informa qual e o tipo do dado contido.
 
-    - <h5> </h5>
+        <hr>
+    
+    * <h4> varaivel.iloc -- </h4> pega linha por linha dos dados, onde nao se cria uma tabela, mas sim os dados irao parecer em ordem de posicao. 
 
-      <hr>
-  
-  * <h4> </h4>
+      - <h5> </h5>
 
-    - <h5> </h5>
+        <hr>
 
-      <hr>
+    * <h4> </h4>
 
-  * <h4> </h4>
+      - <h5> </h5>
 
-    - <h5> </h5>
+        <hr>
+    
+    * <h4> </h4>
 
-      <hr>
-  
-  * <h4> </h4>
+      - <h5> </h5>
 
-    - <h5> </h5>
-
-      <hr>
+        <hr>
 11. ### Aula 11
 
   * <h4>  </h4>
