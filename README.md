@@ -29,6 +29,8 @@
 <br>
 <a href="#Aula-11">#  Aula 11 </a>
 <br>
+<a href="#Aula-12">#  Aula 12 </a>
+<br>
 <a href="#Obs">#  Observações </a>
 <br>
 <a href="#-Autor"> # Autor </a>
@@ -439,6 +441,8 @@
 
 <hr>
 <hr>
+
+12. ### Aula 12
 
 ### Obs:
     
